@@ -113,7 +113,7 @@ object-fit: cover;
 }
 .login .group a:nth-child(2)
 {
-    margin-left: 1.5rem;
+    margin-left: 1rem;
     text-decoration: underline;
 }
 
